@@ -110,7 +110,7 @@ body {
   padding-bottom: 75px;
 }
 
-.middle img {
+.middle__image {
   box-shadow: 0px 15px 65px 0px rgba(15, 16, 16, 0.15);
   border: 10px solid #fff;
   margin-bottom: 100px;
