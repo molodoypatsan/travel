@@ -217,7 +217,7 @@ body {
   background-color: #f00;
 }
 
-.bottom__button .arrow {
+.bottom__button .bottom__arrow {
   opacity: 0.8;
   padding-left: 25px;
   margin-left: 10px;
